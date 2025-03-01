@@ -4,3 +4,4 @@ dash-bootstrap-components==1.7.*
 dash-vega-components==0.11.*
 altair==5.5.*
 pandas==2.2.*
+vega_datasets==0.9.*
