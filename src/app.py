@@ -9,6 +9,7 @@ cars = data.cars()
 
 # Initiatlize the app
 app = Dash(__name__, external_stylesheets=[dbc.themes.BOOTSTRAP])
+server = app.server
 
 # Layout
 # Layout
